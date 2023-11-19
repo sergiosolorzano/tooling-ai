@@ -42,4 +42,4 @@ However, I'll specify if a project works or does not and I will provide a video 
    macro avg       0.88      0.93      0.89        10
 weighted avg       0.93      0.90      0.90        10
 
-    - Special thanks to Kaggle for the dataset and the [Geeks for Greeks community](https://www.geeksforgeeks.org/spam-classification-using-openai/) for the clear instructions
+  Special thanks to Kaggle for the dataset and the [Geeks for Greeks community](https://www.geeksforgeeks.org/spam-classification-using-openai/) for the clear instructions
