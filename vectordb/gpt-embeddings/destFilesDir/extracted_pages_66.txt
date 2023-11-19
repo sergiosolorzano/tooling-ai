@@ -1,0 +1,22 @@
+Response rates have deteriorated further since mid-2020. The continued
+deterioration might be an extension of the pre-Covid downward trend, which could
+reflect a shift in societal attitudes towards responding to household surveys. Similar
+downward trends in household survey response rates have been observed across
+many other advanced economies (see, for example, Leeuw et al (2018) ).
+The decline in response rates increases the risk that the LFS estimates may be
+statistically biased. If the fall in responses is concentrated in households that have
+different labour market characteristics than the average respondent, the survey will
+be less representative as a result. In addition, the decline in response rates has
+contributed to a reduction in the achieved sample size of the LFS. This means the
+survey is experiencing higher sampling variability than in the past, which can result
+in more volatile estimates from quarter to quarter.
+In an effort to address some of these challenges the ONS is developing atransformed Labour Force Survey (TLFS). The new estimates will be based on
+improved methods for collecting data, aimed at increasing the response rate, and aChart A: LFS response rates and achieved sample sizes have declined
+notably since the pandemic
+LFS response rate and achieved sample size (a)
+Sources: ONS and Bank calculations.
+(a) Dashed lines represent the 2013–19 trend in sample size and response rate if projected forward linearly .
+Data are to 2023 Q2, prior to the phasing out of the boost to the LFS sample size introduced by the ONS during
+the pandemic.
+Bank of England  
+Page 66

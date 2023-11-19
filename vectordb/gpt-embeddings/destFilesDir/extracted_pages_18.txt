@@ -1,0 +1,23 @@
+In projections conditioned on the alternative assumption of constant interest rates at
+5.25% over the forecast period, the unemployment rate rises to a greater extent across
+the forecast period compared with the MPC’s projection conditioned on market rates, as
+the constant rate assumption is above the market curve to an increasing degree beyond
+the end of next year.
+Reflecting the considerable uncertainties around interpreting estimates from the Labour
+Force Survey, there are risks in both directions around the recent path of the
+unemployment rate, and hence the outlook for unemployment and labour market
+tightness. The labour market could remain tighter than assumed for a number of economicChart 1.2: Unemployment rate projection based on market interest rate
+expectations, other policy measures as announced
+The fan chart depicts the probability of various outcomes for the ILO definition of unemployment. It has been
+conditioned on Bank Rate following a path implied by market yields, but allows the Committee’ s judgement on the risks
+around the other conditioning assumptions set out in Section 1.1, including wholesale energy prices, to af fect the
+calibration of the fan chart skew. The coloured bands have the same interpretation as in Chart 1.1, and portray 90% of
+the probability distribution. Up to June 2023, this fan chart is based on LFS unemployment data. Beyond this point, the
+Committee is drawing on the collective steer from other indicators of unemployment to inform its projection (see Box B).
+The fan begins in 2023 Q3, a quarter earlier than for CPI inflation. A significant proportion of this distribution lies below
+Bank staff’s current estimate of the long-term equilibrium unemployment rate. There is therefore uncertainty about the
+precise calibration of this fan chart.
+The risks around the unemployment rate projection are judged to be broadly
+balanced.
+Bank of England  
+Page 18

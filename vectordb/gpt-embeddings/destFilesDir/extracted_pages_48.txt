@@ -1,0 +1,23 @@
+Bank staff take a combined steer from a wide range of indicators to inform their view
+about underlying employment growth. Daniell and Moreira (2023) describes how these
+indicators feed into the near-term forecast and the evolution of this indicator-based model
+forecast over time is shown in the aqua line in Chart 2.11. The indicator-based model
+suggests that employment growth has slowed gradually since end-2021. The latest staff
+projections suggest employment will be broadly flat over the second half of 2023.Chart 2.10: Most indicators of employment growth are softening
+Indicators of employment growth (a) (b)
+Sources: Bank of England Agents, HMRC, KPMG/REC/S&P Global UK Report on Jobs, Lloyds Business Barometer,
+ONS, S&P Global/CIPS and Bank calculations.
+(a) ONS employment growth is the change in headline employment level for people aged 16+ over the value three
+months earlier. Employment indicators include data from: ONS/HMRC Pay As You Earn (the three-month change in the
+monthly number of PAYE employees), the Bank’s Agents (employment intentions over the next six months);
+KPMG/REC/S&P Global (weighting together the temporary and permanent staff placements series); Lloyds Business
+Barometer (balance of higher staffing levels over next 12 months); and S&P Global/CIPS (PMI composite employment
+index). The surveys and Agents’ scores have varying samples and questions but have been mean and variance
+adjusted to match the ONS employment growth series between 2000 and 2019, and are therefore shown consistent
+with the three-month on three-month growth rate. The final data point for ONS employment growth is the three months
+to August 2023.
+(b) The LFS employment growth series shown here uses official LFS estimates to June 2023 and thereafter uses the
+ONS’s experimental alternative labour market statistics (based on HMRC payrolls data). See Box B for further
+information.
+Bank of England  
+Page 48

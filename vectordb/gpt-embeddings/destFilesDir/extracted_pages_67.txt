@@ -1,0 +1,35 @@
+larger sample size. The ONS plans to transition to the TLFS estimates in March
+2024. [1]
+Due to concerns around the impact of the fall in the response rates on the quality of
+the data, the ONS has temporarily stopped publishing LFS estimates of
+employment, unemployment and inactivity following the June 2023 data. The ONS
+has announced that it plans to resume publication of its LFS estimates in
+December, but in the meantime it has replaced them with experimental estimates.
+These figures take the LFS estimates for unemployment and employment in the
+three months to June, and thereafter project them forward in line with the claimant
+count measure of unemployment and HMRC payrolls data respectively . As
+experimental statistics, these estimates need to be interpreted with caution
+(especially given both the HMRC payrolls data and the claimant count measure are
+themselves experimental statistics). The Office for Statistics Regulation is
+undertaking a review of these data.
+The population weights that the ONS uses to produce the latest LFS estimates
+assume that the demographics of the population have not changed since June
+2021. Updating for recent demographic changes will affect estimates of the rates of
+participation, employment and unemployment in the labour market. For example,
+the current LFS population weights do not account for the ageing in the population
+since mid-2021, and as a result older people have been progressively
+underweighted in the LFS estimates. As older people are more likely to be out of
+the labour force, this means that the estimates of the participation rate and
+employment rate are probably too high.
+The existing population weights used in the LFS are also based on a mid-2021
+assumption about the size and growth of the population. They do not therefore
+capture more recent information about the population, such as greater than
+assumed inward migration. Because the UK population is now estimated to have
+increased since mid-2021 by more than assumed in the LFS, the total number of
+people estimated to be in employment, unemployment and outside of the workforce
+in the UK is expected to be revised up, all else equal.The ONS has temporarily paused the publication of LFS estimates from the
+June data, and replaced them with experimental estimates.
+LFS estimates are also based on mid-2021 population estimates, and will be
+revised to reflect more up to date estimates later this year.
+Bank of England  
+Page 67

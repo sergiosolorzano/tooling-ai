@@ -1,0 +1,23 @@
+1.1: The conditioning assumptions underlying the MPC ’s
+projections
+As set out in Table 1.B, the MPC’s projections are conditioned on:
+The paths for policy rates in advanced economies implied by financial markets, as
+captured in the 15-working day average of forward interest rates to 24 October (Chart
+2.5). The market-implied path for Bank Rate in the United Kingdom has fallen by just
+over ½ percentage point on average over the next three years compared with the
+equivalent period at the time of the August Report. The path for Bank Rate
+underpinning the November projections remains around 5¼% until 2024 Q3 and then
+declines gradually to 4¼% by the end of 2026. There has been a significant increase in
+longer-term government bond yields globally since August (Section 2.1).A path for the sterling effective exchange rate index that is around 1½% lower on
+average than in the August Report, and is depreciating gradually over the forecast
+period given the role for expected interest rate differentials in the Committee’s
+conditioning assumption.Wholesale energy prices that follow their respective futures curves over the forecast
+period. Since August, spot oil prices and the oil futures curve have risen, while gas
+futures prices are little changed. Significant uncertainty remains around the outlook for
+wholesale energy prices, including related to recent geopolitical developments (Key
+judgement 3).UK household energy prices that move in line with Bank staff estimates of the Ofgem
+price cap implied by the path of wholesale energy prices (Section 2.3).
+Fiscal policy that evolves in line with announced UK government policies to date, and
+so does not include the contents of the Autumn Statement on 22 November.
+Bank of England  
+Page 9

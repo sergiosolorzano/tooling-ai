@@ -1,0 +1,41 @@
+Table 1.B: Conditioning assumptions (a) (b)
+Average
+1998–2007Average
+2010–192022 2023 2024 2025 2026
+Bank Rate
+(c)5.0 0.5 2.8 5.3 (5.8) 5.1 (5.9) 4.5 (5) 4.2
+Sterling
+effective
+exchange
+rate (d)100 82 78 81 (82) 80 (81) 80 (81) 79
+Oil prices
+(e)39 77 89 90 (79) 81 (75) 77 (72) 74
+Gas prices
+(f)29 52 201 118 (113) 142 (139) 117 (114) 99
+Nominal
+government
+expenditure
+(g)7¼ 2¼ 4 6¼ (4) ¾ (3) 1¾ (1½) 2½
+1.2: Key judgements and risks
+1.2: Key judgement 1
+GDP is expected to be broadly flat in the first half of the forecast period and growth
+is projected to remain well below historical averages in the medium term. That
+reflects the significant increase in Bank Rate since the start of this tightening cycle,
+subdued potential supply growth, and a waning boost from fiscal policy .Sources: Bank of England, Bloomberg Finance L.P., Office for Budget Responsibility (OBR), ONS, Refinitiv Eikon from
+LSEG and Bank calculations.
+(a) The table shows the projections for financial market prices, wholesale energy prices and government spending
+projections that are used as conditioning assumptions for the MPC’ s projections for CPI inflation, GDP growth and the
+unemployment rate. Figures in parentheses show the corresponding projections in the August 2023 Monetary Policy
+Report.
+(b) Financial market data are based on averages in the 15 working days to 24 October 2023. Figures show the average
+level in Q4 of each year, unless otherwise stated.
+(c) Per cent. The path for Bank Rate implied by forward market interest rates. The curves are based on overnight index
+swap rates.
+(d) Index. January 2005 = 100. The convention is that the sterling exchange rate follows a path that is half way between
+the starting level of the sterling ERI and a path implied by interest rate dif ferentials.
+(e) Dollars per barrel. Projection based on monthly Brent futures prices.
+(f) Pence per therm. Projection based on monthly natural gas futures prices.
+(g) Annual average growth rate. Nominal general government consumption and investment. Projections are based on
+the OBR's March 2023 Economic and Fiscal Outlook. Historical data based on NMRP+D7QK.
+Bank of England  
+Page 10

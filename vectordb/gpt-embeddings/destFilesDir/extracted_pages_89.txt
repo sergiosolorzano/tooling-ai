@@ -1,0 +1,25 @@
+Changes in Bank Rate and future interest rate expectations pass-through to changes in
+household deposit and loan rates over time. As set out in Section 2.1, pass-through to
+rates on new loans has been broadly in line with developments in the relevant reference
+rates. In contrast, pass-through to some savings rates has tended to be somewhat slower .
+Nevertheless, the direct cash-flow effects of changes in interest rates have increased
+average household incomes. This is accounted for by two key factors. First, the stock of
+household savings exceeds the stock of mortgages: the outstanding value of mortgages is
+a little over £1.5 trillion compared to close to £1.7 trillion in household deposits. That
+means for an equivalent change in interest rates the impact on interest income is greater
+than the impact on mortgage costs. And second, as set out in the May 2023 Report , overChart 3.7: Increases in interest rates are expected to continue to reduce
+consumption
+Estimated impact of changes in OIS yield curve since August 2021 on the level of consumption
+(a)
+(a) OIS rates are the overnight index swap rates and represent market expectations for Bank Rate. Data up to 24
+October 2023 are included. Estimates show the output from the standard treatment of the impact of changes in Bank
+Rate and Bank Rate expectations in the Bank’s forecasting models. The consumption effects of the estimated impact of
+changes in the OIS curve on sterling exchange rates have been excluded. Both the overall total impact and the
+individual channel estimates are uncertain and could be higher or lower than presented here. The ‘Mortgage cash flow’
+bars include some effect from intertemporal substitution where higher interest rates shift incentives to consume later
+than otherwise would be the case. The ‘Other’ bars show the net effect of changes in Bank Rate excluding the direct
+mortgage cash-flow channel, intertemporal substitution and broader housing ef fects.
+Higher interest rates reduce household consumption via higher mortgage costs,
+even though aggregate household incomes have increased.
+Bank of England  
+Page 89

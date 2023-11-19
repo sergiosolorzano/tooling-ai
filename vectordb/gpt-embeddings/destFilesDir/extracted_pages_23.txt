@@ -1,0 +1,15 @@
+Chart 1.4: CPI inflation projection based on market interest rate expectations, other
+policy measures as announced
+The fan chart depicts the probability of various outcomes for CPI inflation in the future. It has been conditioned on Bank
+Rate following a path implied by market yields, but allows the Committee’ s judgement on the risks around the other
+conditioning assumptions set out in Section 1.1, including wholesale energy prices, to af fect the calibration of the fan
+chart skew. If economic circumstances identical to today’s were to prevail on 100 occasions, the MPC’s best collective
+judgement is that inflation in any particular quarter would lie within the darkest central band on only 30 of those
+occasions. The fan chart is constructed so that outturns of inflation are also expected to lie within each pair of the lighter
+orange areas on 30 occasions. In any particular quarter of the forecast period, inflation is therefore expected to lie
+somewhere within the fans on 90 out of 100 occasions. And on the remaining 10 out of 100 occasions inflation can fall
+anywhere outside the orange area of the fan chart. Over the forecast period, this has been depicted by the grey
+background. See the Box on pages 48–49 of the May 2002 Inflation Report for a fuller description of the fan chart and
+what it represents.
+Bank of England  
+Page 23

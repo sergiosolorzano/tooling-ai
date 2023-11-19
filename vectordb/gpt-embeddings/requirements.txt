@@ -1,0 +1,3 @@
+openai
+tiktoken
+poetry (sudo apt install python3-dev libpq-dev  and #https://www.digitalocean.com/community/tutorials/how-to-install-poetry-to-manage-python-dependencies-on-ubuntu-22-04)

@@ -1,0 +1,27 @@
+The ONS’s estimate of the proportion of working-age people in the labour force is also
+affected by the uncertainties surrounding the LFS estimates, with the participation rate
+probably overestimated (Box B). These issues notwithstanding, the rise in participation
+since mid-2022 has been partly driven by a return of students to the labour force. Those
+reporting they are outside the labour force due to looking after family or the home and
+retirement has also declined. The number of people saying they are unable to participate
+in the workforce due to sickness remains elevated, however, and is just over half a million
+higher than before the pandemic.
+A range of evidence points to the labour market having loosened, consistent with a
+restrictive stance of monetary policy. The ONS vacancies to unemployment ratio, a key
+measure of labour market tightness, has been falling since August 2022. This reflects both
+a steady fall in the number of vacancies and rising unemployment (right panel of ChartChart 2.11: An indicator-based model points to flat employment in 2023 Q4
+Measures of quarterly employment growth (a) (b)
+Sources: Bank of England Agents, HMRC, KPMG/REC/S&P Global UK Report on Jobs, Lloyds Business Barometer,
+ONS, S&P Global/CIPS and Bank calculations.
+(a) LFS employment growth is the change in headline employment level for people aged 16+ over the value in the
+previous quarter. Latest data point is for 2023 Q2.
+(b) Bank staff’s indicator-based model of near-term employment growth uses mixed-data sampling (or MIDAS)
+techniques (see Daniell and Moreira (2023)  for more detail). A range of indicators inform the model, including series
+from the Bank of England Agents, the Lloyds Business Barometer, ONS/HMRC PAYE payrolls, S&P Global/CIPS
+purchasing managers’ index and the KPMG/REC UK Report on Jobs. Indicators are weighted together according to
+their relative forecast performance in the recent past. Diamonds represent projections for 2023 Q3 and Q4.
+Labour force participation has increased from its mid-2022 trough.
+The labour market is loosening, and by a little more than projected in the August
+Report…
+Bank of England  
+Page 49

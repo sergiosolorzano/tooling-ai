@@ -1,0 +1,25 @@
+Interest rates on bank loans to UK businesses have been rising, reflecting the increase in
+Bank Rate. In the latest data for August, the interest rate on new bank loans stood at
+nearly 7%, compared to around 2% at the start of the tightening cycle.
+Larger companies are able to borrow from capital markets, for example by issuing bonds.
+While spreads over risk-free rates on both high-yield and investment-grade corporate
+bonds have narrowed by around 90 basis points since late last year , higher risk-free rates
+have increased the overall cost of issuing bonds.
+The availability of mortgage credit declined in 2023 Q3, continuing the trend of the last
+two years, according to the latest Credit Conditions Survey (CCS). Tighter wholesale
+funding conditions and expectations for house prices were the most significant factors
+reported to be reducing credit availability. The availability of unsecured credit fell slightly
+on the quarter, although lenders expected little change over the next three months.Chart 2.6: Rises in reference rates have fed through to mortgage rates, and
+increasingly deposit rates
+Average quoted interest rates on two-year fixed-rate mortgages, fixed-rate savings bonds,
+instant access accounts, and the respective reference rates (a)
+Sources: Bank of England, Bloomberg Finance L.P. and Bank calculations.
+(a) The reference rate for mortgages and fixed-rate savings bonds is the two-year overnight index swap (OIS) rate. The
+Bank’s quoted rates series are weighted monthly average rates advertised by all UK banks and building societies with
+products meeting the specific criteria. In February 2019 the method used to calculate these data was changed. For
+more information, see Introduction of new Quoted Rates data – Bankstats article. Diamonds for mortgage and
+saving products represent averages of daily quoted rates using data to 24 October and were provisional. OIS rate and
+Bank Rate show monthly averages and the respective diamonds show the average of daily rates to 24 October .
+Credit availability is tightening, reflecting increased credit risk.
+Bank of England  
+Page 42

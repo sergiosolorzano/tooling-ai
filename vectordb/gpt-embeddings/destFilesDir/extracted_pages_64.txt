@@ -1,0 +1,14 @@
+Chart 2.21: A measure of medium-term inflation expectations in financial markets
+has been drifting up since the start of the year
+RPI-reform adjusted measure of five-year, five-year forward inflation compensation (a)
+Sources: Bloomberg Finance L.P. and Bank calculations.
+(a) Market-derived inflation compensation rates for average UK RPI inflation over a five-year period starting five years
+into the future. It is derived by adjusting the five-year, five-year rate to account for UK RPI reform. From 2030, UK RPI
+will be aligned with the CPIH measure of consumer prices. At present, the wedge between the current definition of RPI
+and CPIH affects the unadjusted series. This measure is calculated by adding a scaled market-derived estimate of the
+impact of RPI reform onto the unadjusted rate. That is calculated as the difference between the closest one-year forward
+rates before and after the planned RPI reform date (currently the five-year , one-year rate and the seven-year, one-year
+rate) on a three-month daily rolling average basis, and the adjustment is applied to the five-year forward period
+impacted by the reform. The latest data point is 24 October 2023.
+Bank of England  
+Page 64

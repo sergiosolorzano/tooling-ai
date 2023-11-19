@@ -1,0 +1,53 @@
+Sources: Bank of England, Bloomberg Finance L.P., Department for Energy Security and Net Zero, Eurostat, IMF World
+Economic Outlook (WEO), National Bureau of Statistics of China, ONS, US Bureau of Economic Analysis and Bank
+calculations.
+(a) The profiles in this table should be viewed as broadly consistent with the MPC’s projections for GDP growth, CPI
+inflation and unemployment (as presented in the fan charts).
+(b) Figures show annual average growth rates unless otherwise stated. Figures in parentheses show the corresponding
+projections in the August 2023 Monetary Policy Report. Calculations for back data based on ONS data are shown using
+ONS series identifiers.
+(c) Chained-volume measure. Constructed using real GDP growth rates of 188 countries weighted according to their
+shares in UK exports.
+(d) Chained-volume measure. Constructed using real GDP growth rates of 189 countries weighted according to their
+shares in world GDP using the IMF’s purchasing power parity (PPP) weights.
+(e) Chained-volume measure. Forecast was finalised before the release of the preliminary flash estimate of euro-area
+GDP for Q3, so that has not been incorporated.
+(f) Chained-volume measure. Forecast was finalised before the release of the advance estimate of US GDP  for Q3, so
+that has not been incorporated. Revisions since August have led to changes in the historical data.
+(g) Chained-volume measure. Constructed using real GDP growth rates of 155 emerging market economies, weighted
+according to their relative shares in world GDP using the IMF’s PPP weights.
+(h) Chained-volume measure.
+(i) Excludes the backcast for GDP.
+(j) Chained-volume measure. Includes non-profit institutions serving households. Based on ABJR+HAYO.
+(k) Chained-volume measure. Based on GAN8.
+(l) Chained-volume measure. Whole-economy measure. Includes new dwellings, improvements and spending on
+services associated with the sale and purchase of property. Based on DFEG+L635+L637.
+(m) Chained-volume measure. The historical data exclude the impact of missing trader intra ‑community (MTIC) fraud.
+Since 1998 based on IKBK-OFNN/(BOKH/BQKO). Prior to 1998 based on IKBK.
+(n) Chained-volume measure. The historical data exclude the impact of MTIC fraud. Since 1998 based on IKBL-
+OFNN/(BOKH/BQKO). Prior to 1998 based on IKBL.
+(o) Chained-volume measure. Exports less imports.
+(p) Wages and salaries plus mixed income and general government benefits less income taxes and employees’ National
+Insurance contributions, deflated by the consumer expenditure deflator . Based on [ROYJ+ROYH-(RPHS+AIIV-
+CUCT)+GZVX]/[(ABJQ+HAYE)/(ABJR+HAYO)]. The backdata for this series are available at Monetary Policy Report –
+Download chart slides and data – November 2023.
+(q) Total available household resources, deflated by the consumer expenditure deflator. Based on
+[RPQK/((ABJQ+HAYE)/(ABJR+HAYO))].
+(r) Annual average. Percentage of total available household resources. Based on NRJS.
+(s) Level in Q4. Percentage point spread over reference rates. Based on a weighted average of household and
+corporate loan and deposit spreads over appropriate risk-free rates. Indexed to equal zero in 2007 Q3.
+(t) Annual average. Per cent of potential GDP. A negative figure implies output is below potential and a positive figure
+that it is above.
+(u) GDP per hour worked. Hours worked based on YBUS.
+(v) Four-quarter growth in the ILO definition of employment in Q4. Up to June 2023, this projection is based on LFS
+employment data (MGRZ). Beyond this point, the Committee is drawing on the collective steer from other indicators of
+employment to inform its projection.
+(w) Level in Q4. Average weekly hours worked, in main job and second job. Based on YBUS/MGRZ up to June 2023.
+(x) ILO definition of unemployment rate in Q4. Up to June 2023, this projection is based on LFS unemployment data
+(MGSX). Beyond this point, the Committee is drawing on the collective steer from other indicators of unemployment to
+inform its projection.
+(y) ILO definition of labour force participation in Q4 as a percentage of the 16+ population. Up to June 2023, this
+projection is based on LFS participation data (MGWG).
+(z) Four-quarter inflation rate in Q4.
+Bank of England  
+Page 30
