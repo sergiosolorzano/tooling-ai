@@ -13,14 +13,11 @@ However, I'll specify if a project works or does not and I will provide a video 
   - Chunk the pdf pages to vectorize each page
   - Vectorizes each page in Pinecone
   - User asks chat-gpt-3.5 a question about the document and specifies N number of embeddings (pdf pages) relevant to the question and use these to contextualize its response
+  - Key feature: it uses a [GPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin), a recently released tool from OpenAI, which serves as our database interface handling all chunkings, embedding model calls, and vector database interaction.
 
   You can also see the Video [here](https://vimeo.com/886124664?share=copy).
 
-<video src="https://github.com/sergiosolorzano/tooling-ai/assets/24430655/d668858c-8081-40f1-9b79-d786346a0d6c" controls="controls" muted="muted" playsinline="playsinline">
+<video src="https://github.com/sergiosolorzano/tooling-ai/assets/24430655/21bbd8d1-8749-43c7-b1fc-a7729d7f7f2a" controls="controls" muted="muted" playsinline="playsinline">
       </video>
 
-  Special thanks to @Roulin for the clear instructions in the [blog](https://betterprogramming.pub/enhancing-chatgpt-with-infinite-external-memory-using-vector-database-and-chatgpt-retrieval-plugin-b6f4ea16ab8) fail this link [here](https://drive.google.com/file/d/1XQPwsg1pvsni_aT6386vrTTAqzjvgAy0/view?usp=sharing). No need to add a how-to here.
-
-    
-
-    
+  Special thanks to @Roulin for the clear instructions in the [blog](https://betterprogramming.pub/enhancing-chatgpt-with-infinite-external-memory-using-vector-database-and-chatgpt-retrieval-plugin-b6f4ea16ab8) fail this link [here](https://drive.google.com/file/d/1XQPwsg1pvsni_aT6386vrTTAqzjvgAy0/view?usp=sharing).
