@@ -16,6 +16,9 @@ However, I'll specify if a project works or does not and I will provide a video 
 
   You can also see the Video [here](https://vimeo.com/886124664?share=copy).
 
+<video src="https://github.com/sergiosolorzano/tooling-ai/assets/24430655/d668858c-8081-40f1-9b79-d786346a0d6c" controls="controls" muted="muted" playsinline="playsinline">
+      </video>
+
   Special thanks to @Roulin for the clear instructions in the [blog](https://betterprogramming.pub/enhancing-chatgpt-with-infinite-external-memory-using-vector-database-and-chatgpt-retrieval-plugin-b6f4ea16ab8) fail this link [here](https://drive.google.com/file/d/1XQPwsg1pvsni_aT6386vrTTAqzjvgAy0/view?usp=sharing). No need to add a how-to here.
 
     
