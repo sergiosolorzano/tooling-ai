@@ -11,11 +11,10 @@ However, I'll specify if a project works or does not and I will provide a video 
     <img width="569" alt="image" src="https://github.com/sergiosolorzano/tooling-ai/assets/24430655/88d17ae1-83ae-4d25-b5e7-6fa4e4216c68">
 
   - Chunk the pdf pages to vectorize each page
-  - Vectorizes each page in Pinecone
+  - Vectorizes each page in Pinecone using the GPT Retrieval Plugin with web framework FastAPI(https://blog.devgenius.io/getting-started-with-fast-api-c7e52e68685f). The OpenAI released tool [GPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin) serves as our database interface handling all chunkings, embedding model calls, and vector database interaction.
   - User asks chat-gpt-3.5 a question about the document and specifies N number of embeddings (pdf pages) relevant to the question and use these to contextualize its response
-  - Key feature: it uses a [GPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin), a recently released tool from OpenAI, which serves as our database interface handling all chunkings, embedding model calls, and vector database interaction.
 
-  You can also see the Video [here](https://vimeo.com/886124664?share=copy).
+  You can also see the app execution video [here](https://vimeo.com/886124664?share=copy).
 
 <video src="https://github.com/sergiosolorzano/tooling-ai/assets/24430655/21bbd8d1-8749-43c7-b1fc-a7729d7f7f2a" controls="controls" muted="muted" playsinline="playsinline">
       </video>
