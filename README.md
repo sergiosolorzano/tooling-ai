@@ -29,16 +29,7 @@ However, I'll specify if a project works or does not and I will provide a video 
 
     (oai310env) sergio@Home-Win11:~/my-repos/tooling-ai/classification/ada_and_randomforest$ ./classify_ada_rndforest.py
 
-    OUTPUT                                               TEXT                                          embedding  class_embeddings
-0      ham  go until jurong point crazy available only in ...  [-0.004949026275426149, -0.025076890364289284,...                 0
-1      ham                           ok lar joking wif u oni   [-0.0046631754375994205, -0.015035536140203476...                 0
-2      ham       u dun say so early hor u c already then say   [0.014811056666076183, -0.014046785421669483, ...                 0
-3      ham  nah i don t think he goes to usf he lives arou...  [0.00585900479927659, 0.0007614285568706691, -...                 0
-5      ham  even my brother is not like to speak with me t...  [-0.010946870781481266, -0.02851772867143154, ...                 0
-4     spam  freemsg hey there darling it s been week s now...  [-0.02513720840215683, -0.018801702186465263, ...                 1
-9     spam  xxxmobilemovieclub to use your credit click th...  [-0.016372570767998695, -0.0069217374548316, 0...                 1
-13    spam  england v macedonia dont miss the goals team n...  [-0.013056539930403233, -0.001103076385334134,...                 1
-28    spam  thanks for your subscription to ringtone uk yo...  [-0.017348436638712883, -0.019642658531665802,...                 1
+<img width="1010" alt="image" src="https://github.com/sergiosolorzano/tooling-ai/assets/24430655/2ac3ddf7-b147-4a78-bf9f-1ff1015b4a87">
 
     Start to train the model.
     Time elapsed to train the model for 50 mails: 0 minutes, 0 seconds, 48 milliseconds
