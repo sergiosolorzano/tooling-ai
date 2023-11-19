@@ -22,7 +22,7 @@ However, I'll specify if a project works or does not and I will provide a video 
 
   Special thanks to @Roulin for the clear instructions in the [blog](https://betterprogramming.pub/enhancing-chatgpt-with-infinite-external-memory-using-vector-database-and-chatgpt-retrieval-plugin-b6f4ea16ab8) fail this link [here](https://drive.google.com/file/d/1XQPwsg1pvsni_aT6386vrTTAqzjvgAy0/view?usp=sharing).
 
-## 2. classification/ada_and_randomforest: Mail Spam Classification using OpenAI
+## 2. classification/ada_and_randomforest: Mail Spam Classification using OpenAI embeddings and a Random Forest Classification model
   - Vectorize mail dataset with OpenAI's text-embedding-ada-002
   - Train a random forest classification model with these embedding vectors (features) and labels (mail is spam or ham type)
   - Test the model and report stats
