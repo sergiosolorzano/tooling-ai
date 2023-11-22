@@ -1,0 +1,26 @@
+2023-11-22 20:47:52,244 - INFO - 
+2023-11-22 20:47:52,244 - INFO - 
+2023-11-22 20:47:52,244 - INFO - Sample Size to Create Embeddings:10
+2023-11-22 20:47:52,244 - INFO - 
+2023-11-22 20:47:52,244 - INFO - Ham:5 or 50.00% - Spam:5 or 50.00%
+2023-11-22 20:47:52,245 - INFO - 
+2023-11-22 20:47:52,245 - INFO - Send Request for Embeddings
+2023-11-22 20:47:54,526 - INFO - 
+2023-11-22 20:47:54,526 - INFO - Create Dataframe with Embedding as features and class_embedding as class labels:
+2023-11-22 20:47:54,535 - INFO -    Unnamed: 0 OUTPUT                                              TWEET  \
+0           0    ham  Go until jurong point, crazy.. Available only ...   
+1           1    ham                      Ok lar... Joking wif u oni...   
+3           3    ham  U dun say so early hor... U c already then say...   
+4           4    ham  Nah I don't think he goes to usf, he lives aro...   
+6           6    ham  Even my brother is not like to speak with me. ...   
+
+                                   embedding_feature  class_embeddings  
+0  [-0.011926770210266113, -0.026225026696920395,...                 0  
+1  [-0.001585790072567761, -0.030922498553991318,...                 0  
+3  [0.010840782895684242, -0.011349951848387718, ...                 0  
+4  [0.012785426340997219, -6.532514817081392e-05,...                 0  
+6  [-0.012125612236559391, -0.030779363587498665,...                 0  
+2023-11-22 20:47:54,537 - INFO - 
+2023-11-22 20:47:54,537 - INFO - Save Dataframe to CSV.
+2023-11-22 20:47:54,539 - INFO - 
+2023-11-22 20:47:54,539 - INFO - Start to train the model.

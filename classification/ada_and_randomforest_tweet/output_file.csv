@@ -1,0 +1,21 @@
+Unnamed: 0,OUTPUT,TWEET,embedding_feature,class_embeddings
+0,ham,"Go until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat...","[-0.01192677 -0.02622503  0.00614714 ... -0.0290403   0.01212786
+ -0.02396449]",0
+1,ham,Ok lar... Joking wif u oni...,"[-0.00158579 -0.0309225   0.00929764 ... -0.00705158  0.00025178
+ -0.03068745]",0
+3,ham,U dun say so early hor... U c already then say...,"[ 0.01084078 -0.01134995  0.02258389 ... -0.00840451  0.02655412
+ -0.0303181 ]",0
+4,ham,"Nah I don't think he goes to usf, he lives around here though","[ 1.27323801e-02 -7.17325383e-05  2.42158165e-03 ... -3.88200544e-02
+  9.58666019e-03 -1.84756555e-02]",0
+6,ham,Even my brother is not like to speak with me. They treat me like aids patent.,"[-0.01213549 -0.03078732  0.01482702 ... -0.01600077  0.00458032
+ -0.01442228]",0
+2,spam,Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005. Text FA to 87121 to receive entry question(std txt rate)T&C's apply 08452810075over18's,"[-0.00926699  0.0009854   0.00623046 ... -0.00362351  0.00045253
+ -0.02254771]",1
+5,spam,"FreeMsg Hey there darling it's been 3 week's now and no word back! I'd like some fun you up for it still? Tb ok! XxX std chgs to send, å£1.50 to rcv","[-0.03850253 -0.01323778 -0.01322425 ... -0.01111378  0.0112626
+ -0.05243704]",1
+8,spam,WINNER!! As a valued network customer you have been selected to receivea å£900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.,"[-0.00520407 -0.02490158  0.00876864 ... -0.01361322 -0.00446831
+ -0.02250952]",1
+9,spam,Had your mobile 11 months or more? U R entitled to Update to the latest colour mobiles with camera for Free! Call The Mobile Update Co FREE on 08002986030,"[ 0.0041947  -0.00457157  0.00381456 ... -0.01717205  0.00924145
+ -0.02115702]",1
+11,spam,"SIX chances to win CASH! From 100 to 20,000 pounds txt> CSH11 and send to 87575. Cost 150p/day, 6days, 16+ TsandCs apply Reply HL 4 info","[-0.00985341  0.01334782 -0.00196052 ... -0.02727803  0.00734773
+ -0.03925111]",1

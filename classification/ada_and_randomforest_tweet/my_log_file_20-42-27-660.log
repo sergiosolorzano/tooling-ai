@@ -1,0 +1,35 @@
+2023-11-22 20:42:27,667 - INFO - 
+2023-11-22 20:42:27,667 - INFO - 
+2023-11-22 20:42:27,667 - INFO - Sample Size to Create Embeddings:10
+2023-11-22 20:42:27,668 - INFO - 
+2023-11-22 20:42:27,668 - INFO - Ham:5 or 50.00% - Spam:5 or 50.00%
+2023-11-22 20:42:27,668 - INFO - 
+2023-11-22 20:42:27,668 - INFO - Send Request for Embeddings
+2023-11-22 20:42:29,864 - INFO - 
+2023-11-22 20:42:29,864 - INFO - Create Dataframe with Embedding as features and class_embedding as class labels:
+2023-11-22 20:42:29,864 - INFO -    Unnamed: 0 OUTPUT                                              TWEET  \
+0           0    ham  Go until jurong point, crazy.. Available only ...   
+1           1    ham                      Ok lar... Joking wif u oni...   
+3           3    ham  U dun say so early hor... U c already then say...   
+4           4    ham  Nah I don't think he goes to usf, he lives aro...   
+6           6    ham  Even my brother is not like to speak with me. ...   
+
+                                   embedding_feature  class_embeddings  
+0  [-0.011926770210266113, -0.026225026696920395,...                 0  
+1  [-0.0023669875226914883, -0.03126837685704231,...                 0  
+3  [0.010840782895684242, -0.011349951848387718, ...                 0  
+4  [0.01273238006979227, -7.17325383448042e-05, 0...                 0  
+6  [-0.012125612236559391, -0.030779363587498665,...                 0  
+2023-11-22 20:42:29,867 - INFO - 
+2023-11-22 20:42:29,867 - INFO - Start to train the model.
+2023-11-22 20:42:29,908 - INFO - Time elapsed to train the model for 10 tweets: 0 minutes, 0 seconds, 40 milliseconds
+2023-11-22 20:42:29,912 - INFO - 
+2023-11-22 20:42:29,912 - INFO -               precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00         1
+           1       1.00      1.00      1.00         1
+
+    accuracy                           1.00         2
+   macro avg       1.00      1.00      1.00         2
+weighted avg       1.00      1.00      1.00         2
+
