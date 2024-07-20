@@ -4,6 +4,12 @@ Miscellaneous ai projects that prototype the use of AI and machine learning to e
 You may find useful code or an approach here but the README may not be well explained and the code likely requires refactoring, sorry but these are prototypes.
 However, I'll specify if a project works or does not and I will provide a video running a project.
 
+<p align="center">
+<img width="150" alt="star" src="https://github.com/sergiosolorzano/ai_gallery/assets/24430655/3c0b02ea-9b11-401a-b6f5-c61b69ad651b">
+</p>
+
+---------------------------------------------
+
 # Projects included:
 ## 1. vectordb/gpt-embeddings: Vectorize documents in Pinecone vector db for LLM queries: 
   - Works at the time uploaded
